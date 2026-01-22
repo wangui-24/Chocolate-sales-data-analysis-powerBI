@@ -74,20 +74,12 @@ These measures enable consistent performance comparison across years and dimensi
 
 ---
 
-## 🧰 Tools & Technologies
+ Tools & Technologies
 - **Power BI**
 - **DAX (Time Intelligence, YoY Analysis)**
 - **Excel (Data Cleaning & Exploration)**
 - **Data Modeling & Business Analysis**
 
----
-
-## 📁 Repository Contents
-- Power BI dashboard file (.pbix)
-- Cleaned dataset
-- Documentation and analysis notes
-
----
 
 OUTCOME:
 The project delivers a professional, interactive sales dashboard that transforms raw sales data into actionable insights, showcasing strong analytical, technical, and business storytelling skills.
