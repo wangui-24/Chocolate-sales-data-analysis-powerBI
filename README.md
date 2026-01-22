@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** was built to provide both executive-level 
 The goal of the project is to demonstrate **end-to-end business intelligence skills** — from data modeling and DAX calculations to dashboard design and data storytelling.
 **
 
-2. Business Objective**
+2. Business Objective
 - Monitor overall sales performance and growth
 - Measure **Year-over-Year (YoY)** sales trends
 - Identify top-performing products, countries, and salespeople
